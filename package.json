@@ -1,0 +1,18 @@
+{
+  "name": "sungole-tax",
+  "version": "0.0.5",
+  "description": "Using nerdamer to calculate taxes",
+  "main": "tax.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "sungole",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/flashcloud/sungole-tax.git"
+  },
+  "dependencies": {
+    "nerdamer": "^1.1.13"
+  }
+}

@@ -1,0 +1,7 @@
+# .npmignore
+.idea/
+/.idea
+/logs/
+/test/logs/
+.gitattributes
+.gitignore
